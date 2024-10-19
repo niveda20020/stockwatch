@@ -4,7 +4,7 @@ import json
 
 app=Flask(__name__)
 
-API_KEY="04cda2461dmshb8a078a6f91bc46p167ef6jsnecfc65eeff9b"
+API_KEY="your_api_key"
 
 @app.route("/")
 def home():
